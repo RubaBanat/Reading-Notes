@@ -1,6 +1,5 @@
-# Reading Notes
 
-![notes](imgs/notes.png)
+   ![notes](imgs/notes.png)
 
 
 ***Hello This is `Ruba Banat` and Here are all reads and notes I took for all code levels :***
@@ -20,7 +19,7 @@
 
 ## Code 301 - Intermediate Software Development :
 
->*Follow this Link*  [Click-Here]()
+>*Follow this Link*  [Click-Here](https://rubabanat.github.io/Reading-Notes-301/)
 
 
 ## Code 401 - Advanced Software Development :
